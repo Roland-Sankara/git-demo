@@ -10,3 +10,8 @@ body{
 p{
     color: green;
 }
+
+footer{
+    font-family: Plus Jakarta Sans;
+    background-color: aquamarine;
+}
