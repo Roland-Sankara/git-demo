@@ -10,3 +10,9 @@ body{
 p{
     color: green;
 }
+
+.main-heading{
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;    
+}
